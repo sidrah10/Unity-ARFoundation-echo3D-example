@@ -2,7 +2,7 @@
 Example Unity project with AR Foundation and echo3D integrated.
 
 Build in Unity version 2019.2 and tested on Unity versions 2020.1, 2019.4, 2018.4.
-
+no i have computer ! 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
